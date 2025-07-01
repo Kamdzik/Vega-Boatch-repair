@@ -1,0 +1,2 @@
+uint16_t minVal[NUM_CHANNELS] = { 1084, 1096, 1016, 1096, 896, 1016 };
+uint16_t maxVal[NUM_CHANNELS] = { 1948, 1860, 1900, 1860, 1972, 1920 };
