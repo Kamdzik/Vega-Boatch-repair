@@ -2,9 +2,9 @@
 Program do gowowego sterownika łódki zanetowej opartej na mikrokontrolerze atmega 48 kóry steruje 2 silnikami , 2 burty, 2 pstrykacze i wlacznik swiateł ,
 program odczytuje impulcy ppwm na wejsciu in0  podobnie jak w pwm tyle ze odbiornik wysyła jednym przewodem 6 kanałowy sygnał i powtarza cyklicznie jedyne co to 
 musi to przetwarza go na wyjscia sterujace . program był pisany na zlecenie , ostatnia data kompilaci i wgrania 30.06.2025
-
+finałowy kod
 */
-
+ 
 
 #include <Arduino.h>
 #define NUM_CHANNELS 6
